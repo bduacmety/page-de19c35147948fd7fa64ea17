@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "98bc63e571bd476dc1ba53cd",
+  "owner": "bduacmety",
+  "repo": "page-de19c35147948fd7fa64ea17",
+  "title": "SaySS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "de19c35147948fd7fa64ea17",
+      "a": "SaySS",
+      "b": "",
+      "entity": "SaySS",
+      "brand": "SaySS",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3e2abe367f4a03af9edb017b7f1c5f8f444e1a2930fdc8cfaaff74cf67e77c5b",
+      "content": {
+        "keyword1": "SaySS",
+        "keyword2": "",
+        "primary_entity": "SaySS",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SaySS 是专注稳定高速的机场订阅与 VPN 网络加速服务，提供多端客户端官方下载，覆盖基础到团队套餐，助力跨境办公、流媒体与游戏加速。",
+          "AI_DESCRIPTION": "SaySS 是专注稳定高速的机场订阅与 VPN 网络加速服务，提供多端客户端官方下载，覆盖基础到团队套餐，助力跨境办公、流媒体与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#f3f4f6;color:#111827;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif;font-size:16px;line-height:1.7;overflow-x:hidden}*,*:before,*:after{box-sizing:border-box}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}header,footer,main{width:100%}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#ffffff;border-bottom:1px solid #e5e7eb}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding:14px 0}.brand{font-weight:800;font-size:22px;color:#4c1d95;letter-spacing:.02em}.nav-links{display:flex;flex-wrap:wrap;gap:12px 18px}.nav-links a{color:#374151;font-weight:600}h1{font-size:30px;line-height:1.25;margin:0 0 12px;color:#4c1d95}h2{font-size:24px;margin:0 0 14px;color:#4c1d95}h3{font-size:18px;margin:18px 0 8px;color:#5b21b6}p{margin:0 0 12px}.lead{font-size:18px;color:#374151}.section{padding:36px 0}.card{background:#ffffff;border:1px solid #e5e7eb;border-radius:12px;padding:20px}.cols{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px;min-width:0}.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}.plan{background:#ffffff;border:1px solid #ddd6fe;border-radius:12px;padding:22px;min-width:0}.plan.featured{border:2px solid #6d28d9;background:#f5f3ff}.price{font-size:28px;font-weight:800;color:#4c1d95;margin:8px 0}.sub{color:#6b7280;font-size:14px;margin-bottom:10px}.feat{padding-left:18px;margin:0}.feat li{margin:6px 0}.badge{display:inline-block;background:#6d28d9;color:#fff;font-size:12px;font-weight:700;padding:3px 8px;border-radius:999px;margin-bottom:8px}.faq-box{background:#ede9fe;border:1px solid #ddd6fe;border-radius:12px;padding:20px}details{background:#ffffff;border:1px solid #e5e7eb;border-radius:10px;margin:0 0 10px;padding:0}summary{padding:14px 16px;font-weight:700;color:#1f2937}details p{padding:0 16px 14px;color:#374151;margin:0}ul.plain{padding-left:18px;margin:0 0 12px}ul.plain li{margin:6px 0}.note{background:#ffffff;border-left:4px solid #6d28d9;padding:12px 14px;border-radius:8px}.footer{background:#111827;color:#e5e7eb;padding:28px 0 18px}.footer a{color:#c4b5fd}.footer h3{color:#f5f3ff;margin-top:0}.grid-foot{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}.muted{color:#9ca3af;font-size:13px}.ad{background:#1f2937;border:1px dashed #6d28d9;border-radius:8px;padding:12px;margin-bottom:12px}@media (max-width:720px){h1{font-size:26px}h2{font-size:21px}.nav{align-items:flex-start}.section{padding:28px 0}}</style><header><div class=\"wrap nav\"><div class=\"brand\">SaySS</div><nav class=\"nav-links\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">客户端下载</a></nav></div></header><main><section class=\"section\" id=\"intro\"><div class=\"wrap\"><h1>SaySS 官方网站：机场订阅与 VPN 网络加速</h1><p class=\"lead\">SaySS 面向需要稳定跨境访问的个人与团队，提供可订阅的机场节点与多端加速体验。页面内容覆盖套餐说明、使用场景、客户端导入步骤与常见问题，便于在官网完成了解与下载决策。</p><div class=\"cols\"><div class=\"col card\"><h2>品牌简介</h2><p>SaySS 是以机场订阅为核心的网络加速服务。用户购买套餐后获得订阅链接，可在 Clash、Shadowrocket、Surge、v2rayN 等客户端中导入，按自身需求选择普通线路或 IPLC 专线节点。</p><p>服务定位清晰：基础版满足日常浏览与轻量解锁，旗舰版强化流媒体与游戏链路，团队版面向多设备与定制路由。流量按自然月周期统计，设备同时在线数量与套餐绑定，避免共享滥用影响线路质量。</p><p>官方网站只提供公开说明与订阅指引，不收集无关信息。节点覆盖常见跨境出口，重点保障办公协作、学术资料、主流流媒体与对延迟敏感的游戏加速。</p></div><div class=\"col card\"><h3>你能在 SaySS 获得什么</h3><ul class=\"plain\"><li>按月或按年的机场订阅，价格公开可核对</li><li>多端客户端兼容，导入订阅即可使用</li><li>基础流媒体到原生解锁的分级能力</li><li>游戏场景下的 IPLC 专线优化选项</li><li>工单支持，旗舰与团队通道优先级更高</li></ul><div class=\"note\">如需客户端，请先阅读下方操作说明，再前往各客户端官方渠道获取软件，使用本站订阅链接导入。SaySS 不捆绑来源不明的安装包。</div></div></div></div></section><section class=\"section\" id=\"plans\"><div class=\"wrap\"><h2>套餐方案</h2><p>以下价格与权益以官网公示为准。年付按十个月计费，适合长期使用。所有套餐均提供极速流量与节点池，差别主要体现在额度、设备数、解锁深度与支持等级。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"sub\">按年付仅需 ¥150/年</div><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"sub\">按年付仅需 ¥350/年</div><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"sub\">按年付仅需 ¥850/年</div><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section class=\"section\" id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"cols\"><div class=\"col card\"><h3>跨境办公与协作</h3><p>远程会议、云文档、代码仓库与企业邮箱在跨境链路上容易抖动。SaySS 普通节点可满足网页与即时通讯，旗舰版 IPLC 更适合长时间会议与大文件同步。</p></div><div class=\"col card\"><h3>学习科研与资料库</h3><p>访问期刊、预印本与公开课平台时，稳定的 DNS 与出口比单纯追求峰值带宽更重要。建议按课程或项目周期选择年付，减少中途变更。</p></div><div class=\"col card\"><h3>流媒体观看</h3><p>基础版覆盖常见地区内容库的基础解锁。若需要更完整的原生片源与多地区切换，请选择旗舰版或团队版的全节点原生能力。</p></div><div class=\"col card\"><h3>游戏加速</h3><p>对延迟和丢包敏感的对战与更新下载，可走 IPLC 专线。团队版额外提供高带宽 VIP 节点，适合工作室或多人同时在线。</p></div></div></div></section><section class=\"section\" id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"cols\"><div class=\"col card\" id=\"download\"><h3>客户端下载建议</h3><p>SaySS 以订阅协议交付，不强制单一 App。请从各客户端自己的官方网站获取安装包，再导入本站订阅。</p><ul class=\"plain\"><li>Windows：Clash Verge、v2rayN</li><li>macOS：ClashX Meta、Surge</li><li>iOS：Shadowrocket、Stash</li><li>Android：Clash Meta for Android</li><li>路由器：与 OpenWrt 等兼容的核心</li></ul><p>下载完成后不要修改系统代理为来源不明的全局规则。先用规则分流，确认浏览器与目标应用均能正常访问。</p></div><div class=\"col card\"><h3>从购买到连接</h3><p>第一步：在官网选择基础版、旗舰版或团队版，完成支付后进入用户中心复制订阅链接。</p><p>第二步：打开客户端，选择“从 URL 导入”或“订阅管理”，粘贴链接并更新节点列表。</p><p>第三步：按场景选择节点。浏览与文档用普通线路，流媒体选择标注解锁的节点，游戏选择 IPLC。</p><p>第四步：开启系统代理或 TUN 模式。若某条线路异常，切换同区域备用节点，不必反复重装客户端。</p><p>第五步：在用户中心核对流量与在线设备。接近额度时可升级套餐，避免中断。</p></div></div></div></section><section class=\"section\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p>以下问答针对机场订阅、VPN 梯子网络加速、客户端导入与套餐差异，建议收藏本页作为官网说明。</p><div class=\"faq-box\"><details><summary>SaySS 是机场还是传统 VPN 软件？</summary><p>SaySS 以机场订阅方式提供节点，用户在自选客户端中导入即可实现网络加速。它不是单一封闭 App，因此你可以按设备习惯选择 Clash 或其他工具，同时保留分流与规则自定义能力。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先在本页“客户端下载建议”确认系统对应软件，前往该软件官方渠道安装。打开后新增订阅，粘贴 SaySS 用户中心的链接并更新。导入成功后会出现节点列表，选择规则模式再连接。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度浏览与三台设备以内选基础版。需要原生流媒体、游戏 IPLC 和优先工单选旗舰版。多人、多设备或需要定制路由与客户经理选团队版。年付可降低月均成本。</p></details><details><summary>流量与设备超限会怎样？</summary><p>当月流量用尽后加速会暂停，次月按套餐额度重置，也可随时升级。同时在线超过套餐台数时，新设备可能无法接入，请在客户端或用户中心下线闲置会话。</p></details><details><summary>是否保证所有流媒体地区都能播放？</summary><p>基础版提供基础解锁，覆盖常见需求。旗舰版与团队版强调全节点原生解锁，但仍受版权方策略与线路负载影响。遇到单一平台异常时，切换同类型备用节点通常即可恢复。</p></details><details><summary>游戏延迟高或更新很慢怎么办？</summary><p>优先使用标注 IPLC 的节点，关闭其他占用带宽的下载。团队版 VIP 高带宽更适合更新补丁。若晚高峰拥堵，可换邻近区域或错峰连接，不必反复更换客户端。</p></details><details><summary>如何确认这是 SaySS 官网说明？</summary><p>请核对本页品牌名、套餐价格与权益是否与支付页一致，并以本站 canonical 地址为准获取订阅。不要轻信第三方群发的安装包或代充链接。工单与客户经理仅通过用户中心发起。</p></details></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><div class=\"wrap grid-foot\"><div><h3>网站地图</h3><p><a href=\"#intro\">品牌简介</a><br><a href=\"#plans\">套餐方案</a><br><a href=\"#scenes\">使用场景</a><br><a href=\"#guide\">操作说明</a><br><a href=\"#download\">客户端下载</a><br><a href=\"#faq\">常见问题</a></p></div><div><h3>广告</h3><div class=\"ad\">广告位：网络办公外设与跨境协作工具合作展示。联系路径仅通过官网公示渠道，不在第三方私聊成交。</div><p class=\"muted\">广告内容与 SaySS 节点质量无必然关系，请独立判断。</p></div><div><h3>友情链接</h3><p><a href=\"#\">客户端教程索引</a><br><a href=\"#\">节点状态说明</a><br><a href=\"#\">规则分流入门</a><br><a href=\"#\">年付对照表</a></p></div></div><div class=\"wrap\"><p class=\"muted\">© SaySS 官方网站 · 机场订阅与 VPN 网络加速说明页 · 仅提供公开信息与下载指引</p></div></footer>",
+          "hash": "3bda547dbc75da2e3b312127f27250e983053e63a07dd5ab9901d183436d10b1",
+          "seo": {
+            "title": "SaySS 官网 | 机场订阅 VPN 梯子网络加速与客户端下载",
+            "keywords": "SaySS,SaySS机场,SaySS VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,流媒体解锁,游戏加速",
+            "description": "SaySS 是专注稳定高速的机场订阅与 VPN 网络加速服务，提供多端客户端官方下载，覆盖基础到团队套餐，助力跨境办公、流媒体与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xazpthf.cn",
+    "host": "p-ecba6d6a65.xazpthf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "xazpthf.cn",
+      "url": "https://xazpthf.cn/",
+      "label": "花云(FlowerCloud)",
+      "apex": "xazpthf.cn",
+      "kind": null,
+      "identity": "vuvjgaxd/page-6c157d91e9c1d5e47ad95374"
+    },
+    {
+      "host": "ejzbjpk.cn",
+      "url": "https://ejzbjpk.cn/",
+      "label": "SaySS",
+      "apex": "ejzbjpk.cn",
+      "kind": null,
+      "identity": "ypshgcvcb/page-11c5a8db385d662f8c228770"
+    },
+    {
+      "host": "nhpgjr.cn",
+      "url": "https://nhpgjr.cn/",
+      "label": "SaySS",
+      "apex": "nhpgjr.cn",
+      "kind": null,
+      "identity": "kbhmnhxuf/page-81316435929616622539bce7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "22be99debba28e917e1c817b3bda0b9f82e853062b952df10d23cc3648615cba",
+    "sitemap.xml": "8ce3c971e7ae1fa01ef0c6d54ad9a5047e9416530da6e1e4b77e802ab246de09",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "29357043a70869950a939146b22e3c40d12b4a1296628f2470b5b54e20b175e7",
+    "robots.txt": "a53c4432470be53fc0197b23771cc4f9de98c519bbfdac6d0dd7f63cebb85c5e",
+    "60082b465e0d1fe3c82bcd69c662b0e8.txt": "14f6c328355f291b7f0fdb457facdcce617db9d6b472aac4c06b1e7688d6d7ff"
+  },
+  "revision": "ae7098ceb51299b7b514ce38de94633ee3ab23707e0583be0380f57b55ac1af2"
+}
